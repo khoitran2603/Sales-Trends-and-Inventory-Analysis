@@ -206,53 +206,71 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
 
 The Period Profile dashboard acts as a short-term monitoring tool, enabling tactical decisions on what to restock, retire, or test. It tracks how labels shift over 2-month periods, providing timely feedback loops for performance review.
 
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.015.png)
-
-*Fig. 14 Period Profile Dashboard*
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/profile_period.png"/>
+            <br />
+            <em>Fig. 14 Period Profile Dashboard</em>
+          </div>
+        </p>
 
 For example, to identify candidates for restocking, the dashboard can be used to identify fast-selling growth items with strong period-level performance.
 
 - ***Bowtie Cat*** was unavailable during **July–August**, but after being restocked, it sold out quickly in the following period. This shows promising demand. The product should be monitored further, with a decision made at year-end about potential inclusion in the core group.
-
-  ![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.016.png)
-
-*Fig. 15 Period Profile for Bowtie Cat*
+  
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/profile_period_bowtie.png"/>
+            <br />
+            <em>Fig. 15 Period Profile for Bowtie Cat</em>
+          </div>
+        </p>
 
 - ***Pokemon – Blas Turtle*** consistently sells out quickly whenever available, indicating reliable, repeatable demand. It is a strong candidate for promotion to regular restocking.
 
-  ![A screenshot of a computer
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/profile_period_pokemon.png"/>
+            <br />
+            <em>Fig. 16 Period Profile for Pokemon – Blas Turtle</em>
+          </div>
+        </p>
 
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.017.png)
-
-*Fig. 16 Period Profile for Pokemon – Blas Turtle*
-
-### 3.5.Individual Product Diagnostics
+### Individual Product Diagnostics
 
 The Product Drill-Through view provides detailed analysis of specific products over both the year and selected periods, validating label classifications and informing stocking decisions.
 
 - For instance, in **Sep–Oct 2024**, ***Raws – Furry*** recorded the largest increase in transactions compared to its last appearance.
 
-![A screenshot of a cell phone
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.018.png)
-
-*Fig. 17 Period Overview: Top 10 Change in Transaction by Product*
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/overview_period_top10.png"/>
+            <br />
+            <em>Fig. 17 Period Overview: Top 10 Change in Transaction by Product</em>
+          </div>
+        </p>
 
 - Sales were evenly distributed throughout the period, indicating sustained demand rather than a one-time spike. 
 
-  ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.019.png)
-
-*Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)*
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/drillthrough_period.png"/>
+            <br />
+            <em>Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
+          </div>
+        </p>
 
 - In contrast, during **Jul–Aug 2024**, the product was stocked in small volumes for testing and sold out within the first two weeks, showing fast turnover, but a shorter engagement window.
 
-  ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.020.png)
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/drillthrough_year.png"/>
+            <br />
+            <em>Fig. 19 Drill-through Year: Raws - Furry (2024)</em>
+          </div>
+        </p>
 
-*Fig. 19 Drill-through Year: Raws - Furry (2024)*
-
-- This shift in pattern suggests that ***Raws – Furry*** may be transitioning into a more stable performer. It should be restocked in the next cycle and monitored closely for potential promotion into the core product group. 
+- This pattern shift suggests that ***Raws – Furry*** may be transitioning into a more stable performer. It should be restocked in the next cycle and monitored closely for potential promotion into the core product group. 
 
 # Potential Business Actions
 
@@ -299,13 +317,11 @@ This project demonstrates how small businesses can benefit from analytics system
 
 While this project successfully identified trends in product performance and demand behaviour, a few limitations should be addressed in future analysis to improve reliability and expand insight:
 
-1. **Single-Channel Focus:**\
-   The dataset includes only transaction data — what was sold. It does not include information on available stock, storage inventory, or incoming shipments. This limits the ability to determine whether low sales were due to weak demand or simply product unavailability.
-1. **New Business Effect:**\
+1. **Single-Channel Focus:**\ The dataset includes only transaction data — what was sold. It does not include information on available stock, storage inventory, or incoming shipments. This limits the ability to determine whether low sales were due to weak demand or simply product unavailability.
+2. **New Business Effect:**\
    Since Pigment Squad launched in April 2024, current patterns may be shaped by initial novelty or first-time customer behaviour. Over time, repeat purchasing and more stable trends may emerge, affecting product classification labels.
-1. **Partial Year Coverage (May–October 2024):**\
+3. **Partial Year Coverage (May–October 2024):**\
    The analysis excludes November and December, which are typically high-volume months due to holiday sales, gifting, and seasonal clearance. This limits visibility into year-end performance and could miss important trends in customer behaviour.
-
 
 **Recommended Next Steps**
 
