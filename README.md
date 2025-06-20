@@ -2,7 +2,7 @@
 
 # 1.Introduction
 
-## 1.1.About the Project
+### 1.1.About the Project
 This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The main goal is to help the business make data-informed decisions — particularly in responding to seasonal demand, avoiding overstock or stockouts, and reducing storage costs. The analysis aims to answer:
 
 - Which products sell well?
@@ -13,7 +13,7 @@ To achieve this, I designed an end-to-end reporting solution, using Power BI das
 
 The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear — all through a self-updating, user-friendly interface designed to support long-term growth.
 
-## 1.2.Case Study: Pigment Squad
+### 1.2.Case Study: Pigment Squad
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
@@ -35,7 +35,7 @@ Inventory decisions were previously made reactively based on recent impressions 
 
 This project addresses those questions by providing a system that translates transaction data into actionable product insights.
 
-## 1.3.Project Challenge
+### 1.3.Project Challenge
 
 The main challenge was to create a system that could:
 
