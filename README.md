@@ -17,7 +17,8 @@ The final deliverable consists of multiple interactive dashboards that classify 
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
- <img src="image/social_media.jpeg"> <fig>Fig. 1 Social Media</fig>
+ <img src="image/social_media.jpeg"> 
+*Fig. 1 Social Media*
 
  <img src="image/website.png">
 <fig> Fig. 2 Website </fig>
