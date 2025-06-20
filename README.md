@@ -1,9 +1,9 @@
 **NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner for educational purposes. Certain information has been removed to protect the business's privacy.**
 
-# 1.Introduction
+# Introduction
 
-### 1.1.About the Project
-This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The main goal is to help the business make data-informed decisions — particularly in responding to seasonal demand, avoiding overstock or stockouts, and reducing storage costs. The analysis aims to answer:
+### About the Project
+This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The primary goal is to enable the business to make data-informed decisions — particularly in responding to seasonal demand, avoiding overstocking or stockouts, and reducing storage costs. The analysis aims to answer:
 
 - Which products sell well?
 - How quickly do they sell?
@@ -11,25 +11,23 @@ This project focuses on analyzing customer purchasing behavior and inventory tre
 
 To achieve this, I designed an end-to-end reporting solution, using Power BI dashboards built on structured sales data and custom product classifications.
 
-The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear — all through a self-updating, user-friendly interface designed to support long-term growth.
+The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear, all through a self-updating, user-friendly interface designed to support long-term growth.
 
-### 1.2.Case Study: Pigment Squad
+### Case Study: Pigment Squad
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.002.jpeg)
+ <img src="image/social_media.png">
+<fig> Fig. 1 Social Media </fig>
 
-*Fig. 1 Social Media*
-
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.003.png)
-
-*Fig. 2 Website*
+ <img src="image/website.png">
+<fig> Fig. 2 Website </fig>
 
 The business experiences fluctuations in demand, often tied to school breaks and promotional events, which cause sharp sales spikes followed by periods of slower activity.
 
-Inventory decisions were previously made reactively based on recent impressions or sales memory to reorder stock. As catalog expanded, this approach became increasingly difficult and led to growing uncertainty around key questions:
+Inventory decisions were previously made reactively based on recent impressions or sales memory to reorder stock. As the catalogue expanded, this approach became increasingly difficult and led to growing uncertainty around key questions:
 
-- Which items deserve to be consistently restocked?
+- Which items should be consistently restocked?
 - Which spikes were one-off or hype-driven?
 - Which products are ready for clearance?
 
@@ -39,7 +37,7 @@ This project addresses those questions by providing a system that translates tra
 
 The main challenge was to create a system that could:
 
-- Track product demand behavior over time
+- Track product demand behaviour over time
 - Simplify restocking decisions through easy-to-understand labels
 - Remain scalable, interactive, and usable by non-technical users, while still offering the depth needed to answer real business questions
 
@@ -49,20 +47,19 @@ This required balancing technical performance with clarity — building a soluti
 
 *For technical details and formulas, see the [Detailed Report section*]()*
 
-- Data Preparation (R): Cleaned and standardized sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
+- Data Preparation (R): Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
 - Model Design (Power BI): Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
-- Classification Logic (DAX): Developed a custom behavior-based labelling system using sales frequency and stability logic. Applied the logic at both 2-month and yearly levels using calculated tables.
+- Classification Logic (DAX): Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
 - Dashboard Development: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
 
 # 3.Results
 
 You can download the Power BI dashboard [here](https://github.com/DongTran2003/Order-Trends-and-Volume-Analysis/blob/main/code/LeuleuReport.pbix):
 
-### 3.1.Sales Patterns and Seasonal Trends
+### Sales Patterns and Seasonal Trends
 
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.004.png)
-
-*Fig. 3 Yearly Overview Dashboard*
+ <img src="image/overview_year_dashboard.png">
+<fig> Fig. 3 Yearly Overview Dashboard </fig>
 
 **Fast Movers vs. Consistent Performers**
 
