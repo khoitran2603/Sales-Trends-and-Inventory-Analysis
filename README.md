@@ -17,7 +17,6 @@ The final deliverable consists of multiple interactive dashboards that classify 
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
-<table>
   <tr>
     <td align="center">
       <img src="image/social_media.jpeg" alt="Social Media"><br>
@@ -28,7 +27,6 @@ Pigment Squad launched in April 2024, selling unpainted figurines both in-store 
       <em>Fig. 2: Website</em>
     </td>
   </tr>
-</table>
 
 
 
@@ -67,13 +65,18 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 
 ### Sales Patterns and Seasonal Trends
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/social_media.jpeg" alt="Social Media"/>
-    <br />
-    <em>Fig. 3: Yearly Overview Dashboard</em>
-  </div>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/social_media.jpeg" alt="Social Media"><br>
+      <em>Fig. 1: Social Media</em>
+    </td>
+    <td align="center">
+      <img src="image/website.png" alt="Website"><br>
+      <em>Fig. 2: Website</em>
+    </td>
+  </tr>
+</table>
 
 **Fast Movers vs. Consistent Performers**
 
