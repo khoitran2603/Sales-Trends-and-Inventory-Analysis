@@ -1,6 +1,7 @@
 **NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner for educational purposes. Certain information has been removed to protect the business's privacy.**
 
 # 1.Introduction
+
 ## 1.1.About the Project
 This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The main goal is to help the business make data-informed decisions — particularly in responding to seasonal demand, avoiding overstock or stockouts, and reducing storage costs. The analysis aims to answer:
 
