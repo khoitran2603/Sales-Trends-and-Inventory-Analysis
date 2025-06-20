@@ -82,8 +82,9 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
   - **Teddy with Tote** – 271 transactions
   - **SP (Skull Panda) – Rabbit Trainer** – 250 transactions
  
-  <img src="image/overview_year_label_distribution.png"/>
-  *Fig. 4 Label Distribution by Year*
+    <img src="image/overview_year_label_distribution.png"/>
+    
+    *Fig. 4 Label Distribution by Year*
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
