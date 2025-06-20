@@ -17,19 +17,6 @@ The final deliverable consists of multiple interactive dashboards that classify 
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="image/social_media.jpeg" alt="Social Media"><br>
-      <em>Fig. 1: Social Media</em>
-    </td>
-    <td align="center">
-      <img src="image/website.png" alt="Website" width="50%"><br>
-      <em>Fig. 2: Website</em>
-    </td>
-  </tr>
-<table>
-
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">  
     <img src="image/social_media.jpeg" alt="Social Media"/>
@@ -81,7 +68,7 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/social_media.jpeg" alt="Social Media"/>
+    <img src="image/overview_year_dashboard"/>
     <br />
     <em>Fig. 3: Yearly Overview Dashboard</em>
   </div>
