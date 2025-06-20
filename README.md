@@ -68,7 +68,7 @@ You can download the Power BI dashboard [here]()
 
   <p align="center">
     <div style="display: inline-block; text-align: center; margin-right: 20px;">
-      <img src="image/overview_year_dashboard.png" width="30%"/>
+      <img src="image/overview_year_dashboard.png" width="80%"/>
       <br />
       <em>Fig. 3: Yearly Overview Dashboard</em>
     </div>
@@ -84,7 +84,7 @@ You can download the Power BI dashboard [here]()
 
     <p align="center">
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
-        <img src="image/overview_year_label_distribution.png"/>
+        <img src="image/overview_year_label_distribution.png" width="50%"/>
         <br />
         <em>Fig. 4 Label Distribution by Year</em>
       </div>
@@ -129,7 +129,7 @@ You can download the Power BI dashboard [here]()
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_year_active_period.png"/>
+          <img src="image/overview_year_active_period.png" width="80%"/>
           <br />
           <em>Fig. 8 Yearly Overview by Product Availability</em>
         </div>
@@ -147,7 +147,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_period_dashboard.png"/>
+          <img src="image/overview_period_dashboard.png" width="80%"/>
           <br />
           <em>Fig. 9 Period Overview Dashboard</em>
         </div>
@@ -189,7 +189,7 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/profile_year.png"/>
+            <img src="image/profile_year.png" width="80%"/>
             <br />
             <em>Fig. 13 Yearly Profile by Product Availability</em>
           </div>
@@ -207,7 +207,7 @@ The Period Profile dashboard acts as a short-term monitoring tool, enabling tact
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/profile_period.png"/>
+            <img src="image/profile_period.png" width="80%"/>
             <br />
             <em>Fig. 14 Period Profile Dashboard</em>
           </div>
@@ -219,7 +219,7 @@ For example, to identify candidates for restocking, the dashboard can be used to
   
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/profile_period_bowtie.png"/>
+            <img src="image/profile_period_bowtie.png" width="80%"/>
             <br />
             <em>Fig. 15 Period Profile for Bowtie Cat</em>
           </div>
@@ -229,7 +229,7 @@ For example, to identify candidates for restocking, the dashboard can be used to
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/profile_period_pokemon.png"/>
+            <img src="image/profile_period_pokemon.png" width="80%"/>
             <br />
             <em>Fig. 16 Period Profile for Pokemon – Blas Turtle</em>
           </div>
@@ -253,7 +253,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/drillthrough_period.png"/>
+            <img src="image/drillthrough_period.png" width="80%"/>
             <br />
             <em>Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
           </div>
@@ -263,7 +263,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/drillthrough_year.png"/>
+            <img src="image/drillthrough_year.png" width="80%"/>
             <br />
             <em>Fig. 19 Drill-through Year: Raws - Furry (2024)</em>
           </div>
