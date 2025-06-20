@@ -84,17 +84,19 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/overview_year_label_distribution.png" alt="Overview Year"/>
+    <img src="image/overview_year_label_distribution.png" alt="Overview Year" align="center"/>
     <br />
     <em>Fig. 4 Label Distribution by Year</em>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/overview_year_top10.png" alt="Overview Year"/>
+    <img src="image/overview_year_top10.png" alt="Overview Year" align="center"/>
     <br />
     <em>Fig. 5 Top 10 Transactions by Product</em>
   </div>
 </p>
+
+ <img src="image/overview_year_label_distribution.png" width="50%" align="center"/>
 
 - These consistently performing products form the core inventory, crucial for maintaining baseline revenue outside of seasonal peaks.
 
