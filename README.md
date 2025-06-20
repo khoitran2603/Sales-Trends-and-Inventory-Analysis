@@ -3,7 +3,7 @@
 # Introduction
 
 ### About the Project
-This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The primary goal is to enable the business to make data-informed decisions — particularly in responding to seasonal demand, avoiding overstocking or stockouts, and reducing storage costs. The analysis aims to answer:
+This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The primary goal is to enable the business to make data-informed decisions, particularly in responding to seasonal demand, avoiding overstocking or stockouts, and reducing storage costs. The analysis aims to answer:
 
 - Which products sell well?
 - How quickly do they sell?
@@ -19,13 +19,13 @@ Pigment Squad launched in April 2024, selling unpainted figurines both in-store 
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">  
-    <img src="image/social_media.jpeg" alt="Social Media"/>
+    <img src="image/social_media.jpeg"/>
     <br />
     <em>Fig. 1: Social Media</em>
   </div>
   
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/website.png" alt="Website" width="50%"/>
+    <img src="image/website.png"/>
     <br />
     <em>Fig. 2: Website</em>
   </div>
@@ -49,7 +49,7 @@ The main challenge was to create a system that could:
 - Simplify restocking decisions through easy-to-understand labels
 - Remain scalable, interactive, and usable by non-technical users, while still offering the depth needed to answer real business questions
 
-This required balancing technical performance with clarity — building a solution that not only works behind the scenes but also communicates insights clearly to help the business make better decisions with confidence.
+This required balancing technical performance with clarity, building a solution that not only works behind the scenes but also communicates insights clearly to help the business make better decisions with confidence.
 
 # Project Building
 
@@ -66,13 +66,13 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 
 ### Sales Patterns and Seasonal Trends
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/overview_year_dashboard.png" alt="Overview Year"/>
-    <br />
-    <em>Fig. 3: Yearly Overview Dashboard</em>
-  </div>
-</p>
+  <p align="center">
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+      <img src="image/overview_year_dashboard.png"/>
+      <br />
+      <em>Fig. 3: Yearly Overview Dashboard</em>
+    </div>
+  </p>
 
 **Fast Movers vs. Consistent Performers**
 
@@ -81,26 +81,22 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 - In contrast, only **5.6%** of products were classified as **“Consistent”**, yet they delivered the highest transaction volumes, including:
   - **Teddy with Tote** – 271 transactions
   - **SP (Skull Panda) – Rabbit Trainer** – 250 transactions
- 
-    <img src="image/overview_year_label_distribution.png"/>
+
+    <p align="center">
+      <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <img src="image/overview_year_label_distribution.png"/>
+        <br />
+        <em>Fig. 4 Label Distribution by Year</em>
+      </div>
+    </p>
     
-    *Fig. 4 Label Distribution by Year*
-
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/overview_year_label_distribution.png" alt="Overview Year" align="center"/>
-    <br />
-    <em>Fig. 4 Label Distribution by Year</em>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="image/overview_year_top10.png" alt="Overview Year" align="center"/>
-    <br />
-    <em>Fig. 5 Top 10 Transactions by Product</em>
-  </div>
-</p>
-
-
+    <p align="center">
+      <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <img src="image/overview_year_top10.png"/>
+        <br />
+        <em>Fig. 5 Top 10 Transactions by Product</em>
+      </div>
+    </p>
 
 - These consistently performing products form the core inventory, crucial for maintaining baseline revenue outside of seasonal peaks.
 
@@ -110,79 +106,103 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
   - June – 1,407 transactions
   - July – 1,601 transactions 
 
-    ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.007.png)
-
-*Fig. 6 Total Transactions by Month*
+    <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/overview_year_trend.png"/>
+            <br />
+            <em>Fig. 6 Transactions Trend</em>
+          </div>
+        </p>
 
 - Together, these two months accounted for over **45%** of total transactions, reflecting strong holiday-driven demand, especially from students and families.
-- Transaction volume dropped by **729** in August, highlighting the return to baseline behavior and the importance of timely inventory preparation before peak period.
+- Transaction volume dropped by **729** in August, highlighting the return to baseline behaviour and the importance of timely inventory preparation before the peak period.
 
-  ![A graph with numbers and a line
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.008.png)
-
-*Fig. 7 Change in Transactions by Month*
+  <p align="center">
+        <div style="display: inline-block; text-align: center; margin-right: 20px;">
+          <img src="image/overview_year_waterfall.png"/>
+          <br />
+          <em>Fig. 7 Change in Transactions by Month</em>
+        </div>
+      </p>
 
 **Reliable Availability, Targeted Demand**
 
 - Only **55** out of **232** products were available in every period, yet they contributed to more than half of all transactions **(3,550).**
 
-  ![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.009.png)
-
-*Fig. 8 Yearly Overview by Product Availability*
+  <p align="center">
+        <div style="display: inline-block; text-align: center; margin-right: 20px;">
+          <img src="image/overview_year_active_period.png"/>
+          <br />
+          <em>Fig. 8 Yearly Overview by Product Availability</em>
+        </div>
+      </p>
 
 - Among these consistently available items:
   - **38.18%** were classified as **“High Potential”**, fast-selling but inconsistent
   - **30.91%** were labeled as **“Niche”**, occasional sales but with reliable demand over time
 - This indicates a valuable mid-tier of products that serve loyal or targeted customer segments. While not top performers, they may benefit from focused promotion or controlled restocking to optimize their contribution.
 
-### 3.2.Growth vs. Risk Across Cycles
+### Growth vs. Risk Across Cycles
 
 The Period Overview page serves as a portfolio-level checkpoint, helping the business compare label movements across intervals and assess how recent restocking choices have impacted inventory performance.
 
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.010.png)
-
-*Fig. 9 Period Overview Dashboard*
+  <p align="center">
+        <div style="display: inline-block; text-align: center; margin-right: 20px;">
+          <img src="image/overview_period_dashboard.png"/>
+          <br />
+          <em>Fig. 9 Period Overview Dashboard</em>
+        </div>
+      </p>
 
 - When the business introduced more growth-oriented products like **“Trending”** and **“High Potential”** items, it also saw an increase in poorly performing products (e.g., **Clearance**, **Low Potential**). This tradeoff diluted shelf space for reliable core items.
 
-![A blue pie chart with numbers and text
+  <p align="center">
+        <div style="display: inline-block; text-align: center; margin-right: 20px;">
+          <img src="image/overview_period_pie1.png"/>
+          <br />
+          <em>Fig. 10 Label Distribution by Period (05/24 - 06/24)</em>
+        </div>
+      </p>
 
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.011.png)
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/overview_period_pie2.png"/>
+            <br />
+            <em>Fig. 11 Label Distribution by Period (07/24 - 08/24)</em>
+          </div>
+        </p>
 
-*Fig. 10 Label Distribution by Period (05/24 - 06/24)*
-
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.012.png)
-
-*Fig. 11 Label Distribution by Period (07/24 - 08/24)*
-
-![A blue pie chart with numbers and a few percentages
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.013.png)
-
-*Fig. 12 Label Distribution by Period (09/24 - 10/24)*
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/overview_period_pie3.png"/>
+            <br />
+            <em>Fig. 12 Label Distribution by Period (09/24 - 10/24)</em>
+          </div>
+        </p>
 
 - This trend reflects Pigment Squad’s strategy of frequently introducing new or experimental products to spark customer interest and diversify offerings.
 - While this approach helps drive early traction and uncover emerging favorites, it also expands the proportion of items that fail to sustain performance and demand.
-- Without exit strategies or regular review cycles, a growing catalog can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
+- Without exit strategies or regular review cycles, a growing catalogue can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
 
-### 3.3.Strategic Product Planning
+### Strategic Product Planning
 
 The Yearly Profile dashboard functions as a strategic planning tool, summarizing product behavior across the full reporting period based on frequency and stability metrics.
 
-![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.014.png)
-
-*Fig. 13 Yearly Profile by Product Availability*
+  <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/profile_year.png"/>
+            <br />
+            <em>Fig. 13 Yearly Profile by Product Availability</em>
+          </div>
+        </p>
 
 - Products that were available in every period accounted for over **50%** of all transactions, making them a priority group for inventory planning and performance optimization.
 - To maintain a stable revenue base, the business should focus on restocking core products regularly, in this order: **Top Performer** → **Consistent** → **Slow but Reliable**
-- Conversely, products labeled **“Clearance”** or **“Low Potential”**, especially those available year-round but with weak sales should be phased out or re-evaluated to improve inventory efficiency.
-- Growth-oriented products, including **“Unpredictable”,** **“Trending”,** and **“High Potential”**, offer opportunities for expansion but should be monitored closely for signs of decline or improvement across periods.
+- Conversely, products labeled **“Clearance”** or **“Low Potential”**, especially those available year-round but with weak sales, should be phased out or re-evaluated to improve inventory efficiency.
+- Growth-oriented products, including **“Unpredictable”,** **“Trending”,** and **“High Potential”**, offer expansion opportunities but should be monitored closely for signs of decline or improvement across periods.
 - **“Niche”** products continue to show value in serving specific customer segments. These items are best managed through targeted promotions and occasional low-volume restocking, avoiding unnecessary inventory buildup.
 
-### 3.4.Tactical Restocking and Monitoring 
+### Tactical Restocking and Monitoring 
 
 The Period Profile dashboard acts as a short-term monitoring tool, enabling tactical decisions on what to restock, retire, or test. It tracks how labels shift over 2-month periods, providing timely feedback loops for performance review.
 
@@ -226,7 +246,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 
 *Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)*
 
-- In contrast, during **Jul–Aug 2024**, the product was stocked in small volumes for testing and sold out within the first two weeks - showing fast turnover, but a shorter engagement window.
+- In contrast, during **Jul–Aug 2024**, the product was stocked in small volumes for testing and sold out within the first two weeks, showing fast turnover, but a shorter engagement window.
 
   ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.020.png)
 
@@ -234,7 +254,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 
 - This shift in pattern suggests that ***Raws – Furry*** may be transitioning into a more stable performer. It should be restocked in the next cycle and monitored closely for potential promotion into the core product group. 
 
-# 4.Potential Business Actions
+# Potential Business Actions
 
 |**Goal**|**Action Summary**|**Implementation Details**|
 | :- | :- | :- |
@@ -244,47 +264,47 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 |Promote Niche Products|Restock small batches, target loyal buyers|Highlight as “special edition” or “limited”|
 |Prepare for Seasonal Peaks|Restock 4–6 weeks early|Use past sales to inform decisions|
 
-# 5.Challenge During the Project
+# Challenge During the Project
 
 Before starting this project, I had never built a reporting system that classified products based on sales patterns or supported long-term inventory decisions. My technical skills with Power BI and DAX were still developing, and I had to learn how to structure a multi-page report that could deliver insights to both business owners and technical reviewers.
 
-A key challenge was designing a product labeling logic that balanced clarity with flexibility. The definitions for product frequency, stability, and category labels went through multiple iterations before they became meaningful to the business. Testing these definitions across multiple dashboards, while ensuring they aligned with real sales behavior took time and required close attention to edge cases.
+A key challenge was designing a product labeling logic that balanced clarity with flexibility. The definitions for product frequency, stability, and category labels went through multiple iterations before they became meaningful to the business. Testing these definitions across multiple dashboards, while ensuring they aligned with real sales behaviour, took time and required close attention to edge cases.
 
-Another challenge was organizing the semantic model in Power BI to support filtering across all views. At first, I attempted to pull all labels directly into the daily transaction table, which created filtering errors and performance issues. I later restructured the model to use reference tables, improving both performance and report maintainability.
+Another challenge was organising the semantic model in Power BI to support filtering across all views. At first, I attempted to pull all labels directly into the daily transaction table, which created filtering errors and performance issues. I later restructured the model to use reference tables, improving both performance and report maintainability.
 
 Throughout the project, I used AI tools like ChatGPT to accelerate learning and problem-solving. These tools were especially helpful when I needed help understanding how to design DAX measures, resolve model relationships, or interpret unexpected results. However, success still depended on human logic, for instance, adapting AI outputs to business context, checking against real data, and revising when things didn’t work as expected.
 
-Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modeling, dashboard design, and analytical storytelling, while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it gave me the opportunity to support a small business in applying data-driven thinking to real-world problems. 
+Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modelling, dashboard design, and analytical storytelling while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it gave me the opportunity to support a small business in applying data-driven thinking to real-world problems. 
 
 # 6.Conclusion
 
-This project provided valuable insights into how different products behave over time and how the business can better manage its inventory based on real customer demand. By classifying products into performance-based labels and visualizing those trends in Power BI, the business can now make more informed decisions about restocking, clearance, and promotional strategies.
+This project provided valuable insights into how different products behave over time and how the business can better manage its inventory based on real customer demand. By classifying products into performance-based labels and visualising those trends in Power BI, the business can now make more informed decisions about restocking, clearance, and promotional strategies.
 
 Through dashboard analysis, we identified patterns such as:
 
-- The importance of maintaining core products to stabilize revenue
+- The importance of maintaining core products to stabilise revenue
 - The risks of over-reliance on short-term trending items
 - The potential of niche and growth-oriented products when monitored properly
 - The clear impact of seasonal spikes on overall transaction volume
 
 These findings have helped the business shift from reactive to proactive restocking decisions and toward a data-supported restocking strategy that considers both stability and flexibility in the product portfolio.
 
-Looking ahead, this product-level dataset can be integrated with financial metrics such as revenue, margins, and stock costs to uncover even deeper insights like the profitability of different product labels, or the cost of holding slow-moving stock.
+Looking ahead, this product-level dataset can be integrated with financial metrics such as revenue, margins, and stock costs to uncover even deeper insights like the profitability of different product labels or the cost of holding slow-moving stock.
 
-This project demonstrates how small businesses can benefit from analytics systems tailored to their scale, and accessible tools like Power BI with well-defined business logic to turn raw sales data into actionable decisions. It also serves as a foundation for future analytics initiatives, such as demand forecasting, or cost optimization. 
+This project demonstrates how small businesses can benefit from analytics systems tailored to their scale, and accessible tools like Power BI with well-defined business logic to turn raw sales data into actionable decisions. It also serves as a foundation for future analytics initiatives, such as demand forecasting or cost optimisation. 
 
 # 7.Recommendations for Further Analysis
 
 **Limitations of Current Dataset**
 
-While this project successfully identified trends in product performance and demand behavior, a few limitations should be addressed in future analysis to improve reliability and expand insight:
+While this project successfully identified trends in product performance and demand behaviour, a few limitations should be addressed in future analysis to improve reliability and expand insight:
 
 1. **Single-Channel Focus:**\
    The dataset includes only transaction data — what was sold. It does not include information on available stock, storage inventory, or incoming shipments. This limits the ability to determine whether low sales were due to weak demand or simply product unavailability.
 1. **New Business Effect:**\
-   Since Pigment Squad launched in April 2024, current patterns may be shaped by initial novelty or first-time customer behavior. Over time, repeat purchasing and more stable trends may emerge, affecting product classification labels.
+   Since Pigment Squad launched in April 2024, current patterns may be shaped by initial novelty or first-time customer behaviour. Over time, repeat purchasing and more stable trends may emerge, affecting product classification labels.
 1. **Partial Year Coverage (May–October 2024):**\
-   The analysis excludes November and December, which are typically high-volume months due to holiday sales, gifting, and seasonal clearance. This limits visibility into year-end performance and could miss important trends in customer behavior.
+   The analysis excludes November and December, which are typically high-volume months due to holiday sales, gifting, and seasonal clearance. This limits visibility into year-end performance and could miss important trends in customer behaviour.
 
 
 **Recommended Next Steps**
