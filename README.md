@@ -9,9 +9,7 @@ This project focuses on analyzing customer purchasing behavior and inventory tre
 - How quickly do they sell?
 - And how consistently do they perform over time?
 
-To achieve this, I designed an end-to-end reporting solution, using Power BI dashboards built on structured sales data and custom product classifications.
-
-The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear, all through a self-updating, user-friendly interface designed to support long-term growth.
+To achieve this, I designed an end-to-end reporting solution, using Power BI dashboards built on structured sales data and custom product classifications. The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear, all through a self-updating, user-friendly interface designed to support long-term growth.
 
 ### Case Study: Pigment Squad
 
@@ -78,9 +76,7 @@ You can download the Power BI dashboard [here]()
 
 - Over the **8-month** period, Pigment Squad sold **232** different product types, generating approximately **$280,000 AUD** through **6,650** online and in-store transactions. 
 - A large portion of products (**23.71%**) were labeled **“Trending”** — fast-selling upon release but quickly losing momentum. These products bring excitement but pose forecasting challenges and inventory risk.
-- In contrast, only **5.6%** of products were classified as **“Consistent”**, yet they delivered the highest transaction volumes, including:
-  - **Teddy with Tote** – 271 transactions
-  - **SP (Skull Panda) – Rabbit Trainer** – 250 transactions
+- In contrast, only **5.6%** of products were classified as **“Consistent”**, yet they delivered the highest transaction volumes, including **Teddy with Tote** (271 transactions) and **SP – Rabbit Trainer** (250 transactions)
 
     <p align="center">
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
@@ -157,7 +153,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_period_pie1.png"/>
+          <img src="image/overview_period_pie1.png" width="50%"/>
           <br />
           <em>Fig. 10 Label Distribution by Period (05/24 - 06/24)</em>
         </div>
@@ -165,7 +161,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_period_pie2.png"/>
+            <img src="image/overview_period_pie2.png" width="50%"/>
             <br />
             <em>Fig. 11 Label Distribution by Period (07/24 - 08/24)</em>
           </div>
@@ -173,15 +169,14 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_period_pie3.png"/>
+            <img src="image/overview_period_pie3.png" width="50%"/>
             <br />
             <em>Fig. 12 Label Distribution by Period (09/24 - 10/24)</em>
           </div>
         </p>
 
 - This trend reflects Pigment Squad’s strategy of frequently introducing new or experimental products to spark customer interest and diversify offerings.
-- While this approach helps drive early traction and uncover emerging favorites, it also expands the proportion of items that fail to sustain performance and demand.
-- Without exit strategies or regular review cycles, a growing catalogue can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
+- While this approach helps drive early traction and uncover emerging favourites, it also expands the proportion of items that fail to sustain performance and demand. Without exit strategies or regular review cycles, a growing catalogue can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
 
 ### Strategic Product Planning
 
