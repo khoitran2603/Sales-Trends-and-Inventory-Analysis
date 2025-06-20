@@ -1,7 +1,7 @@
 **NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner for educational purposes. Certain information has been removed to protect the business's privacy.**
 
-# Introduction
-## About the Project
+# 1.Introduction
+## 1.1.About the Project
 This project focuses on analyzing customer purchasing behavior and inventory trends for Pigment Squad, a retail startup specializing in unpainted and collectible figurines. The main goal is to help the business make data-informed decisions — particularly in responding to seasonal demand, avoiding overstock or stockouts, and reducing storage costs. The analysis aims to answer:
 
 - Which products sell well?
@@ -12,7 +12,7 @@ To achieve this, I designed an end-to-end reporting solution, using Power BI das
 
 The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear — all through a self-updating, user-friendly interface designed to support long-term growth.
 
-## Case Study: Pigment Squad
+## 1.2.Case Study: Pigment Squad
 
 Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
@@ -34,7 +34,7 @@ Inventory decisions were previously made reactively based on recent impressions 
 
 This project addresses those questions by providing a system that translates transaction data into actionable product insights.
 
-## Project Challenge
+## 1.3.Project Challenge
 
 The main challenge was to create a system that could:
 
@@ -44,7 +44,7 @@ The main challenge was to create a system that could:
 
 This required balancing technical performance with clarity — building a solution that not only works behind the scenes but also communicates insights clearly to help the business make better decisions with confidence.
 
-# Project Building
+# 2.Project Building
 
 *For technical details and formulas, see the [Detailed Report section*]()*
 
@@ -53,11 +53,11 @@ This required balancing technical performance with clarity — building a soluti
 - Classification Logic (DAX): Developed a custom behavior-based labelling system using sales frequency and stability logic. Applied the logic at both 2-month and yearly levels using calculated tables.
 - Dashboard Development: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
 
-# Results
+# 3.Results
 
 You can download the Power BI dashboard [here](https://github.com/DongTran2003/Order-Trends-and-Volume-Analysis/blob/main/code/LeuleuReport.pbix):
 
-## Sales Patterns and Seasonal Trends
+## 3.1.Sales Patterns and Seasonal Trends
 
 ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.004.png)
 
@@ -119,7 +119,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
   - **30.91%** were labeled as **“Niche”**, occasional sales but with reliable demand over time
 - This indicates a valuable mid-tier of products that serve loyal or targeted customer segments. While not top performers, they may benefit from focused promotion or controlled restocking to optimize their contribution.
 
-## Growth vs. Risk Across Cycles
+## 3.2.Growth vs. Risk Across Cycles
 
 The Period Overview page serves as a portfolio-level checkpoint, helping the business compare label movements across intervals and assess how recent restocking choices have impacted inventory performance.
 
@@ -149,7 +149,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 - While this approach helps drive early traction and uncover emerging favorites, it also expands the proportion of items that fail to sustain performance and demand.
 - Without exit strategies or regular review cycles, a growing catalog can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
 
-## Strategic Product Planning
+## 3.3.Strategic Product Planning
 
 The Yearly Profile dashboard functions as a strategic planning tool, summarizing product behavior across the full reporting period based on frequency and stability metrics.
 
@@ -163,7 +163,7 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
 - Growth-oriented products, including **“Unpredictable”,** **“Trending”,** and **“High Potential”**, offer opportunities for expansion but should be monitored closely for signs of decline or improvement across periods.
 - **“Niche”** products continue to show value in serving specific customer segments. These items are best managed through targeted promotions and occasional low-volume restocking, avoiding unnecessary inventory buildup.
 
-## Tactical Restocking and Monitoring 
+## 3.4.Tactical Restocking and Monitoring 
 
 The Period Profile dashboard acts as a short-term monitoring tool, enabling tactical decisions on what to restock, retire, or test. It tracks how labels shift over 2-month periods, providing timely feedback loops for performance review.
 
@@ -189,7 +189,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 
 *Fig. 16 Period Profile for Pokemon – Blas Turtle*
 
-## Individual Product Diagnostics
+## 3.5.Individual Product Diagnostics
 
 The Product Drill-Through view provides detailed analysis of specific products over both the year and selected periods, validating label classifications and informing stocking decisions.
 
@@ -215,7 +215,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 
 - This shift in pattern suggests that ***Raws – Furry*** may be transitioning into a more stable performer. It should be restocked in the next cycle and monitored closely for potential promotion into the core product group. 
 
-# Potential Business Actions
+# 4.Potential Business Actions
 
 |**Goal**|**Action Summary**|**Implementation Details**|
 | :- | :- | :- |
@@ -225,7 +225,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 |Promote Niche Products|Restock small batches, target loyal buyers|Highlight as “special edition” or “limited”|
 |Prepare for Seasonal Peaks|Restock 4–6 weeks early|Use past sales to inform decisions|
 
-# Challenge During the Project
+# 5.Challenge During the Project
 
 Before starting this project, I had never built a reporting system that classified products based on sales patterns or supported long-term inventory decisions. My technical skills with Power BI and DAX were still developing, and I had to learn how to structure a multi-page report that could deliver insights to both business owners and technical reviewers.
 
@@ -237,7 +237,7 @@ Throughout the project, I used AI tools like ChatGPT to accelerate learning and 
 
 Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modeling, dashboard design, and analytical storytelling, while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it gave me the opportunity to support a small business in applying data-driven thinking to real-world problems. 
 
-# Conclusion
+# 6.Conclusion
 
 This project provided valuable insights into how different products behave over time and how the business can better manage its inventory based on real customer demand. By classifying products into performance-based labels and visualizing those trends in Power BI, the business can now make more informed decisions about restocking, clearance, and promotional strategies.
 
@@ -254,7 +254,7 @@ Looking ahead, this product-level dataset can be integrated with financial metri
 
 This project demonstrates how small businesses can benefit from analytics systems tailored to their scale, and accessible tools like Power BI with well-defined business logic to turn raw sales data into actionable decisions. It also serves as a foundation for future analytics initiatives, such as demand forecasting, or cost optimization. 
 
-# Recommendations for Further Analysis
+# 7.Recommendations for Further Analysis
 
 **Limitations of Current Dataset**
 
