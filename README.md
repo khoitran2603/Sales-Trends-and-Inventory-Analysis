@@ -82,17 +82,19 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
   - **Teddy with Tote** – 271 transactions
   - **SP (Skull Panda) – Rabbit Trainer** – 250 transactions
 
-![A pie chart with numbers and text
+<p align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="image/overview_year_label_distribution.png" alt="Overview Year"/>
+    <br />
+    <em>Fig. 4 Label Distribution by Year</em>
+  </div>
 
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.005.png)
-
-*Fig. 4 Label Distribution by Year*
-
-![A screenshot of a computer screen
-
-AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.006.png)
-
-*Fig. 5 Top 10 Transactions by Product*
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="image/overview_year_top10.png" alt="Overview Year"/>
+    <br />
+    <em>Fig. 5 Top 10 Transactions by Product</em>
+  </div>
+</p>
 
 - These consistently performing products form the core inventory, crucial for maintaining baseline revenue outside of seasonal peaks.
 
