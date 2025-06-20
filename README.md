@@ -42,7 +42,7 @@ Inventory decisions were previously made reactively based on recent impressions 
 
 This project addresses those questions by providing a system that translates transaction data into actionable product insights.
 
-### 1.3.Project Challenge
+### Project Challenge
 
 The main challenge was to create a system that could:
 
@@ -52,7 +52,7 @@ The main challenge was to create a system that could:
 
 This required balancing technical performance with clarity — building a solution that not only works behind the scenes but also communicates insights clearly to help the business make better decisions with confidence.
 
-# 2.Project Building
+# Project Building
 
 *For technical details and formulas, see the [Detailed Report section*]()*
 
@@ -61,14 +61,19 @@ This required balancing technical performance with clarity — building a soluti
 - Classification Logic (DAX): Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
 - Dashboard Development: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
 
-# 3.Results
+# Results
 
 You can download the Power BI dashboard [here](https://github.com/DongTran2003/Order-Trends-and-Volume-Analysis/blob/main/code/LeuleuReport.pbix):
 
 ### Sales Patterns and Seasonal Trends
 
- <img src="image/overview_year_dashboard.png">
-<fig> Fig. 3 Yearly Overview Dashboard </fig>
+<p align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="image/social_media.jpeg" alt="Social Media"/>
+    <br />
+    <em>Fig. 3: Yearly Overview Dashboard</em>
+  </div>
+</p>
 
 **Fast Movers vs. Consistent Performers**
 
