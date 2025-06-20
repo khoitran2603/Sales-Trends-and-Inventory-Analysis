@@ -19,7 +19,7 @@ Pigment Squad launched in April 2024, selling unpainted figurines both in-store 
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">  
-    <img src="image/social_media.jpeg"/>
+    <img src="image/social_media.jpg"/>
     <br />
     <em>Fig. 1: Social Media</em>
   </div>
@@ -127,8 +127,6 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 
 **Reliable Availability, Targeted Demand**
 
-- Only **55** out of **232** products were available in every period, yet they contributed to more than half of all transactions **(3,550).**
-
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
           <img src="image/overview_year_active_period.png"/>
@@ -137,6 +135,7 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
         </div>
       </p>
 
+- Only **55** out of **232** products were available in every period, yet they contributed to more than half of all transactions **(3,550).**
 - Among these consistently available items:
   - **38.18%** were classified as **“High Potential”**, fast-selling but inconsistent
   - **30.91%** were labeled as **“Niche”**, occasional sales but with reliable demand over time
