@@ -81,6 +81,9 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
 - In contrast, only **5.6%** of products were classified as **“Consistent”**, yet they delivered the highest transaction volumes, including:
   - **Teddy with Tote** – 271 transactions
   - **SP (Skull Panda) – Rabbit Trainer** – 250 transactions
+ 
+  <img src="image/overview_year_label_distribution.png"/>
+  *Fig. 4 Label Distribution by Year*
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
@@ -96,7 +99,7 @@ You can download the Power BI dashboard [here](https://github.com/DongTran2003/
   </div>
 </p>
 
- <img src="image/overview_year_label_distribution.png" width="50%" align="center"/>
+
 
 - These consistently performing products form the core inventory, crucial for maintaining baseline revenue outside of seasonal peaks.
 
