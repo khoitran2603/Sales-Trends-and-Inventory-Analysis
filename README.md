@@ -68,7 +68,7 @@ You can download the Power BI dashboard [here]()
 
   <p align="center">
     <div style="display: inline-block; text-align: center; margin-right: 20px;">
-      <img src="image/overview_year_dashboard.png"/>
+      <img src="image/overview_year_dashboard.png" width="30%"/>
       <br />
       <em>Fig. 3: Yearly Overview Dashboard</em>
     </div>
