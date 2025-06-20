@@ -1,4 +1,4 @@
-**NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner for educational purposes. Certain information has been removed to protect the business's privacy.**
+![image](https://github.com/user-attachments/assets/f82dc3ea-e7da-4b9a-98d1-689f4e44bf82)**NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner for educational purposes. Certain information has been removed to protect the business's privacy.**
 
 # Introduction
 
@@ -84,7 +84,7 @@ You can download the Power BI dashboard [here]()
 
     <p align="center">
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
-        <img src="image/overview_year_label_distribution.png"/>
+        <img src="image/overview_year_label_distribution.png" width="80%"/>
         <br />
         <em>Fig. 4 Label Distribution by Year</em>
       </div>
@@ -92,7 +92,7 @@ You can download the Power BI dashboard [here]()
     
     <p align="center">
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
-        <img src="image/overview_year_top10.png"/>
+        <img src="image/overview_year_top10.png" width="50%"/>
         <br />
         <em>Fig. 5 Top 10 Transactions by Product</em>
       </div>
@@ -108,7 +108,7 @@ You can download the Power BI dashboard [here]()
 
     <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_year_trend.png"/>
+            <img src="image/overview_year_trend.png" width="80%"/>
             <br />
             <em>Fig. 6 Transactions Trend</em>
           </div>
@@ -119,7 +119,7 @@ You can download the Power BI dashboard [here]()
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_year_waterfall.png"/>
+          <img src="image/overview_year_waterfall.png" width="80%"/>
           <br />
           <em>Fig. 7 Change in Transactions by Month</em>
         </div>
@@ -157,7 +157,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_period_pie1.png"/>
+          <img src="image/overview_period_pie1.png" width="80%"/>
           <br />
           <em>Fig. 10 Label Distribution by Period (05/24 - 06/24)</em>
         </div>
@@ -165,7 +165,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_period_pie2.png"/>
+            <img src="image/overview_period_pie2.png" width="80%"/>
             <br />
             <em>Fig. 11 Label Distribution by Period (07/24 - 08/24)</em>
           </div>
@@ -173,7 +173,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_period_pie3.png"/>
+            <img src="image/overview_period_pie3.png" width="80%"/>
             <br />
             <em>Fig. 12 Label Distribution by Period (09/24 - 10/24)</em>
           </div>
@@ -243,7 +243,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_period_top10.png"/>
+            <img src="image/overview_period_top10.png" width="50%"/>
             <br />
             <em>Fig. 17 Period Overview: Top 10 Change in Transaction by Product</em>
           </div>
@@ -253,7 +253,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/drillthrough_period.png"/>
+            <img src="image/drillthrough_period.png" width="80%"/>
             <br />
             <em>Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
           </div>
@@ -263,7 +263,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/drillthrough_year.png"/>
+            <img src="image/drillthrough_year.png" width="80%"/>
             <br />
             <em>Fig. 19 Drill-through Year: Raws - Furry (2024)</em>
           </div>
