@@ -58,7 +58,7 @@ This required balancing technical performance with clarity — building a soluti
 
 You can download the Power BI dashboard [here](https://github.com/DongTran2003/Order-Trends-and-Volume-Analysis/blob/main/code/LeuleuReport.pbix):
 
-## 3.1.Sales Patterns and Seasonal Trends
+### 3.1.Sales Patterns and Seasonal Trends
 
 ![](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.004.png)
 
@@ -120,7 +120,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
   - **30.91%** were labeled as **“Niche”**, occasional sales but with reliable demand over time
 - This indicates a valuable mid-tier of products that serve loyal or targeted customer segments. While not top performers, they may benefit from focused promotion or controlled restocking to optimize their contribution.
 
-## 3.2.Growth vs. Risk Across Cycles
+### 3.2.Growth vs. Risk Across Cycles
 
 The Period Overview page serves as a portfolio-level checkpoint, helping the business compare label movements across intervals and assess how recent restocking choices have impacted inventory performance.
 
@@ -150,7 +150,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 - While this approach helps drive early traction and uncover emerging favorites, it also expands the proportion of items that fail to sustain performance and demand.
 - Without exit strategies or regular review cycles, a growing catalog can lead to higher holding costs, wasted shelf space, and weaker support for reliable core items.
 
-## 3.3.Strategic Product Planning
+### 3.3.Strategic Product Planning
 
 The Yearly Profile dashboard functions as a strategic planning tool, summarizing product behavior across the full reporting period based on frequency and stability metrics.
 
@@ -164,7 +164,7 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
 - Growth-oriented products, including **“Unpredictable”,** **“Trending”,** and **“High Potential”**, offer opportunities for expansion but should be monitored closely for signs of decline or improvement across periods.
 - **“Niche”** products continue to show value in serving specific customer segments. These items are best managed through targeted promotions and occasional low-volume restocking, avoiding unnecessary inventory buildup.
 
-## 3.4.Tactical Restocking and Monitoring 
+### 3.4.Tactical Restocking and Monitoring 
 
 The Period Profile dashboard acts as a short-term monitoring tool, enabling tactical decisions on what to restock, retire, or test. It tracks how labels shift over 2-month periods, providing timely feedback loops for performance review.
 
@@ -190,7 +190,7 @@ AI-generated content may be incorrect.](Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e7
 
 *Fig. 16 Period Profile for Pokemon – Blas Turtle*
 
-## 3.5.Individual Product Diagnostics
+### 3.5.Individual Product Diagnostics
 
 The Product Drill-Through view provides detailed analysis of specific products over both the year and selected periods, validating label classifications and informing stocking decisions.
 
