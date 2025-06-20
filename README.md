@@ -55,10 +55,10 @@ This required balancing technical performance with clarity, building a solution 
 
 *For technical details and formulas, see the [Detailed Report section*]()*
 
-- Data Preparation (R): Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
-- Model Design (Power BI): Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
-- Classification Logic (DAX): Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
-- Dashboard Development: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
+- **Data Preparation (R)**: Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
+- **Model Design (Power BI)**: Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
+- **Classification Logic (DAX)**: Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
+- **Dashboard Development**: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
 
 # Results
 
@@ -294,7 +294,7 @@ Throughout the project, I used AI tools like ChatGPT to accelerate learning and 
 
 Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modelling, dashboard design, and analytical storytelling while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it gave me the opportunity to support a small business in applying data-driven thinking to real-world problems. 
 
-# 6.Conclusion
+# Conclusion
 
 This project provided valuable insights into how different products behave over time and how the business can better manage its inventory based on real customer demand. By classifying products into performance-based labels and visualising those trends in Power BI, the business can now make more informed decisions about restocking, clearance, and promotional strategies.
 
@@ -311,7 +311,7 @@ Looking ahead, this product-level dataset can be integrated with financial metri
 
 This project demonstrates how small businesses can benefit from analytics systems tailored to their scale, and accessible tools like Power BI with well-defined business logic to turn raw sales data into actionable decisions. It also serves as a foundation for future analytics initiatives, such as demand forecasting or cost optimisation. 
 
-# 7.Recommendations for Further Analysis
+# Recommendations for Further Analysis
 
 **Limitations of Current Dataset**
 
@@ -328,5 +328,3 @@ While this project successfully identified trends in product performance and dem
 To strengthen the reporting system and further develop the project, I plan to extend the dataset to include November and December 2024, allowing for a more complete analysis of year-end seasonality, clearance behavior, and full-cycle product trends.
 
 In addition, I aim to incorporate inventory availability and arrival data to better understand the relationship between stock levels and product performance, and to assess whether labels such as “*Low Potential”* or “*Clearance”* are driven by actual demand patterns or simply by limited product availability.
-
-[ref1]: Aspose.Words.3f1d2683-21be-4e8c-9c8f-0e73f1272af4.001.png
