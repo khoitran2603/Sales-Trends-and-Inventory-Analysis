@@ -53,7 +53,7 @@ This required balancing technical performance with clarity, building a solution 
 
 # Project Building
 
-*For technical details and formulas, see the [Detailed Report section*]()*
+*For technical details and formulas, see the [Detailed Report section*](https://www.notion.so/Technical-Report-Dashboard-Build-1cb22f471325810ea2bdf5e5d05d167e?source=copy_link)
 
 - **Data Preparation (R)**: Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
 - **Model Design (Power BI)**: Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
@@ -62,7 +62,7 @@ This required balancing technical performance with clarity, building a solution 
 
 # Results
 
-You can download the Power BI dashboard [here](https://github.com/DongTran2003/Order-Trends-and-Volume-Analysis/blob/main/code/LeuleuReport.pbix):
+You can download the Power BI dashboard [here]()
 
 ### Sales Patterns and Seasonal Trends
 
