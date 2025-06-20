@@ -31,12 +31,12 @@ Pigment Squad launched in April 2024, selling unpainted figurines both in-store 
 <table>
 
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">  
     <img src="image/social_media.jpeg" alt="Social Media"/>
     <br />
     <em>Fig. 1: Social Media</em>
   </div>
-
+  
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="image/website.png" alt="Website" width="50%"/>
     <br />
