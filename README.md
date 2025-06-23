@@ -104,18 +104,18 @@ You can download the Power BI dashboard [here]()
 
     <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/overview_year_trend.png"/>
+            <img src="image/overview_year_trend1.png"/>
             <br />
             <em>Fig. 6 Transactions Trend</em>
           </div>
         </p>
 
 - Together, these two months accounted for over **45%** of total transactions, reflecting strong holiday-driven demand, especially from students and families.
-- Transaction volume dropped by **729** in August, highlighting the return to baseline behaviour and the importance of timely inventory preparation before the peak period.
+- After the season break, transaction volume dropped by almost **50%** (-729 transactions)  in August, highlighting the return to baseline behaviour and the importance of timely inventory preparation before the peak period.
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_year_waterfall.png"/>
+          <img src="image/overview_year_waterfall1.png"/>
           <br />
           <em>Fig. 7 Change in Transactions by Month</em>
         </div>
@@ -191,7 +191,7 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
         </p>
 
 - Products that were available in every period accounted for over **50%** of all transactions, making them a priority group for inventory planning and performance optimization.
-- To maintain a stable revenue base, the business should focus on restocking core products regularly, in this order: **Top Performer** → **Consistent** → **Slow but Reliable**
+- To maintain a stable revenue base, the business should focus on restocking core products regularly, with recommended order: **Top Performer** → **Consistent** → **Slow but Reliable**
 - Conversely, products labeled **“Clearance”** or **“Low Potential”**, especially those available year-round but with weak sales, should be phased out or re-evaluated to improve inventory efficiency.
 - Growth-oriented products, including **“Unpredictable”,** **“Trending”,** and **“High Potential”**, offer expansion opportunities but should be monitored closely for signs of decline or improvement across periods.
 - **“Niche”** products continue to show value in serving specific customer segments. These items are best managed through targeted promotions and occasional low-volume restocking, avoiding unnecessary inventory buildup.
@@ -311,8 +311,8 @@ This project demonstrates how small businesses can benefit from analytics system
 
 While this project successfully identified trends in product performance and demand behaviour, a few limitations should be addressed in future analysis to improve reliability and expand insight:
 
-1. **Single-Channel Focus:**\ The dataset includes only transaction data — what was sold. It does not include information on available stock, storage inventory, or incoming shipments. This limits the ability to determine whether low sales were due to weak demand or simply product unavailability.
-2. **New Business Effect:**\
+1. **Single-Channel Focus:** The dataset includes only transaction data — what was sold. It does not include information on available stock, storage inventory, or incoming shipments. This limits the ability to determine whether low sales were due to weak demand or simply product unavailability.
+2. **New Business Effect:**
    Since Pigment Squad launched in April 2024, current patterns may be shaped by initial novelty or first-time customer behaviour. Over time, repeat purchasing and more stable trends may emerge, affecting product classification labels.
 3. **Partial Year Coverage (May–October 2024):**\
    The analysis excludes November and December, which are typically high-volume months due to holiday sales, gifting, and seasonal clearance. This limits visibility into year-end performance and could miss important trends in customer behaviour.
