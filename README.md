@@ -56,7 +56,7 @@ This required balancing technical performance with clarity, building a solution 
 - **Data Preparation (R)**: Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
 - **Model Design (Power BI)**: Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
 - **Classification Logic (DAX)**: Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
-- **Dashboard Development**: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time. 
+- **Dashboard Development**: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time.
 
 # Results
 
