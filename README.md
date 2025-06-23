@@ -56,6 +56,15 @@ This required balancing technical performance with clarity, building a solution 
 - **Data Preparation (R)**: Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
 - **Model Design (Power BI)**: Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
 - **Classification Logic (DAX)**: Developed a custom behaviour-based labelling system using sales frequency and stability logic. Applied the logic at both the 2-month and yearly levels using calculated tables.
+  
+    <p align="center">
+          <div style="display: inline-block; text-align: center; margin-right: 20px;">
+            <img src="image/category_matrix.png" width="50%"/>
+            <br />
+            <em>Fig. 3 3x3 Performance Matrix</em>
+          </div>
+        </p>
+        
 - **Dashboard Development**: Built dynamic visuals, slicers, and drill-throughs that allow users to monitor product performance, compare periods, and explore transaction trends over time.
 
 # Results
@@ -68,7 +77,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
     <div style="display: inline-block; text-align: center; margin-right: 20px;">
       <img src="image/overview_year_dashboard.png" width="80%"/>
       <br />
-      <em>Fig. 3: Yearly Overview Dashboard</em>
+      <em>Fig. 4: Yearly Overview Dashboard</em>
     </div>
   </p>
 
@@ -82,7 +91,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
         <img src="image/overview_year_label_distribution.png" width="50%"/>
         <br />
-        <em>Fig. 4 Label Distribution by Year</em>
+        <em>Fig. 5 Label Distribution by Year</em>
       </div>
     </p>
     
@@ -90,7 +99,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
       <div style="display: inline-block; text-align: center; margin-right: 20px;">
         <img src="image/overview_year_top10.png"/>
         <br />
-        <em>Fig. 5 Top 10 Transactions by Product</em>
+        <em>Fig. 6 Top 10 Transactions by Product</em>
       </div>
     </p>
 
@@ -106,7 +115,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/overview_year_trend1.png"/>
             <br />
-            <em>Fig. 6 Transactions Trend</em>
+            <em>Fig. 7 Transactions Trend</em>
           </div>
         </p>
 
@@ -117,7 +126,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
           <img src="image/overview_year_waterfall1.png"/>
           <br />
-          <em>Fig. 7 Change in Transactions by Month</em>
+          <em>Fig. 8 Change in Transactions by Month</em>
         </div>
       </p>
 
@@ -127,7 +136,7 @@ You can download the Power BI dashboard [here*](https://github.com/khoitran2603
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
           <img src="image/overview_year_active_period1.png" width="80%"/>
           <br />
-          <em>Fig. 8 Yearly Overview by Product Availability</em>
+          <em>Fig. 9 Yearly Overview by Product Availability</em>
         </div>
       </p>
 
@@ -145,7 +154,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
           <img src="image/overview_period_dashboard.png" width="80%"/>
           <br />
-          <em>Fig. 9 Period Overview Dashboard</em>
+          <em>Fig. 10 Period Overview Dashboard</em>
         </div>
       </p>
 
@@ -155,7 +164,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
           <img src="image/overview_period_pie1.png" width="50%"/>
           <br />
-          <em>Fig. 10 Label Distribution by Period (05/24 - 06/24)</em>
+          <em>Fig. 11 Label Distribution by Period (05/24 - 06/24)</em>
         </div>
       </p>
 
@@ -163,7 +172,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/overview_period_pie2.png" width="50%"/>
             <br />
-            <em>Fig. 11 Label Distribution by Period (07/24 - 08/24)</em>
+            <em>Fig. 12 Label Distribution by Period (07/24 - 08/24)</em>
           </div>
         </p>
 
@@ -171,7 +180,7 @@ The Period Overview page serves as a portfolio-level checkpoint, helping the bus
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/overview_period_pie3.png" width="50%"/>
             <br />
-            <em>Fig. 12 Label Distribution by Period (09/24 - 10/24)</em>
+            <em>Fig. 13 Label Distribution by Period (09/24 - 10/24)</em>
           </div>
         </p>
 
@@ -186,7 +195,7 @@ The Yearly Profile dashboard functions as a strategic planning tool, summarizing
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/profile_year.png" width="80%"/>
             <br />
-            <em>Fig. 13 Yearly Profile by Product Availability</em>
+            <em>Fig. 14 Yearly Profile by Product Availability</em>
           </div>
         </p>
 
@@ -204,7 +213,7 @@ The Period Profile dashboard acts as a short-term monitoring tool, enabling tact
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/profile_period.png" width="80%"/>
             <br />
-            <em>Fig. 14 Period Profile Dashboard</em>
+            <em>Fig. 15 Period Profile Dashboard</em>
           </div>
         </p>
 
@@ -216,7 +225,7 @@ For example, to identify candidates for restocking, the dashboard can be used to
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/profile_period_bowtie.png" width="80%"/>
             <br />
-            <em>Fig. 15 Period Profile for Bowtie Cat</em>
+            <em>Fig. 16 Period Profile for Bowtie Cat</em>
           </div>
         </p>
 
@@ -226,7 +235,7 @@ For example, to identify candidates for restocking, the dashboard can be used to
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/profile_period_pokemon.png" width="80%"/>
             <br />
-            <em>Fig. 16 Period Profile for Pokemon – Blas Turtle</em>
+            <em>Fig. 17 Period Profile for Pokemon – Blas Turtle</em>
           </div>
         </p>
 
@@ -240,7 +249,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/overview_period_top10.png"/>
             <br />
-            <em>Fig. 17 Period Overview: Top 10 Change in Transaction by Product</em>
+            <em>Fig. 18 Period Overview: Top 10 Change in Transaction by Product</em>
           </div>
         </p>
 
@@ -250,7 +259,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/drillthrough_period1.png" width="80%"/>
             <br />
-            <em>Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
+            <em>Fig. 19 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
           </div>
         </p>
 
@@ -260,7 +269,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
             <img src="image/drillthrough_year.png" width="80%"/>
             <br />
-            <em>Fig. 19 Drill-through Year: Raws - Furry (2024)</em>
+            <em>Fig. 20 Drill-through Year: Raws - Furry (2024)</em>
           </div>
         </p>
 
