@@ -9,11 +9,11 @@ This project focuses on analyzing customer purchasing behavior and inventory tre
 - How quickly do they sell?
 - And how consistently do they perform over time?
 
-To achieve this, I designed an end-to-end reporting solution, using Power BI dashboards built on structured sales data and custom product classifications. The final deliverable consists of multiple interactive dashboards that classify over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear, all through a self-updating, user-friendly interface designed to support long-term growth.
+To achieve this, I designed an end-to-end reporting solution, using Power BI dashboards built on structured sales data and custom product classifications. The final deliverable comprises multiple interactive dashboards that categorise over 200 product types based on their performance. These dashboards give the business a dynamic and transparent view of which products to restock, monitor, or clear, all through a self-updating, user-friendly interface designed to support long-term growth.
 
 ### Case Study: Pigment Squad
 
-Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint on-site. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
+Pigment Squad launched in April 2024, selling unpainted figurines both in-store and online, while offering an in-store table area for customers to paint their figurines. Its product range is constantly evolving as new figurine types are introduced to test customer interest.
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">  
@@ -51,7 +51,7 @@ This required balancing technical performance with clarity, building a solution 
 
 # Project Building
 
-*For technical details and formulas, see the [Detailed Report section*](https://www.notion.so/Technical-Report-Dashboard-Build-1cb22f471325810ea2bdf5e5d05d167e?source=copy_link)
+*For technical details and formulas, see the [Technical Report*](https://www.notion.so/Technical-Report-Dashboard-Build-1cb22f471325810ea2bdf5e5d05d167e?source=copy_link)
 
 - **Data Preparation (R)**: Cleaned and standardised sales transactions, removed non-product entries, and unified inconsistent item names. Used string detection and manual corrections to classify product types.
 - **Model Design (Power BI)**: Created a semantic model using dimension and fact tables connected via primary and composite keys. Designed the model to support flexible filtering across product, time, and performance labels.
@@ -286,7 +286,7 @@ Another challenge was organising the semantic model in Power BI to support filte
 
 Throughout the project, I used AI tools like ChatGPT to accelerate learning and problem-solving. These tools were especially helpful when I needed help understanding how to design DAX measures, resolve model relationships, or interpret unexpected results. However, success still depended on human logic, for instance, adapting AI outputs to business context, checking against real data, and revising when things didn’t work as expected.
 
-Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modelling, dashboard design, and analytical storytelling while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it gave me the opportunity to support a small business in applying data-driven thinking to real-world problems. 
+Despite these challenges, this project became a valuable learning experience. I gained hands-on skills in data modelling, dashboard design, and analytical storytelling while helping the business owner understand customer demand and make more confident restocking decisions. Most importantly, it allowed me to support a small business in applying data-driven thinking to real-world problems. 
 
 # Conclusion
 
