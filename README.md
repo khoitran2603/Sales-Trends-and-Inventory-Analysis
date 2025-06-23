@@ -125,7 +125,7 @@ You can download the Power BI dashboard [here]()
 
   <p align="center">
         <div style="display: inline-block; text-align: center; margin-right: 20px;">
-          <img src="image/overview_year_active_period.png" width="80%"/>
+          <img src="image/overview_year_active_period1.png" width="80%"/>
           <br />
           <em>Fig. 8 Yearly Overview by Product Availability</em>
         </div>
@@ -248,7 +248,7 @@ The Product Drill-Through view provides detailed analysis of specific products o
 
   <p align="center">
           <div style="display: inline-block; text-align: center; margin-right: 20px;">
-            <img src="image/drillthrough_period.png" width="80%"/>
+            <img src="image/drillthrough_period1.png" width="80%"/>
             <br />
             <em>Fig. 18 Drill-through Period: Raws - Furry (09/24 - 10/24)</em>
           </div>
