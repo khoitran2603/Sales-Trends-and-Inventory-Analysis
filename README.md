@@ -69,7 +69,7 @@ This required balancing technical performance with clarity, building a solution 
 
 # Results
 
-You can download the Power BI dashboard [here*](https://github.com/khoitran2603/Sales-Trends-and-Inventory-Analysis/blob/main/code/pigment_squad.pbix)
+You can download the Power BI dashboard [here*](https://github.com/khoitran2603/Sales-Trends-and-Inventory-Analysis/blob/main/code/PigmentSquad_dashboard.pbix)
 
 ### Sales Patterns and Seasonal Trends
 
